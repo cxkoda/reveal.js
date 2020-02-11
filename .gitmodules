@@ -1,0 +1,6 @@
+[submodule "external/MathJax"]
+	path = external/MathJax
+	url = https://github.com/mathjax/MathJax
+[submodule "external/reveal.js-plugins"]
+	path = external/reveal.js-plugins
+	url = https://github.com/rajgoel/reveal.js-plugins
