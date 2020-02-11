@@ -4,3 +4,6 @@
 [submodule "external/reveal.js-plugins"]
 	path = external/reveal.js-plugins
 	url = https://github.com/rajgoel/reveal.js-plugins
+[submodule "external/reveal-svg-fragment"]
+	path = external/reveal-svg-fragment
+	url = https://gist.github.com/bollwyvl/fe1d2806449487cdf88a
